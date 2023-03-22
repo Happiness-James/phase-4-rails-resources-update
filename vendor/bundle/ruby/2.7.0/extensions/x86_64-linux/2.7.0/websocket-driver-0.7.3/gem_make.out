@@ -1,0 +1,15 @@
+current directory: /home/happiness/moringa/phase-4/phase-4-rails-resources-update/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/happiness/.rbenv/versions/2.7.6/bin/ruby -I /home/happiness/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230322-63961-1ystaz0.rb extconf.rb
+creating Makefile
+
+current directory: /home/happiness/moringa/phase-4/phase-4-rails-resources-update/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/happiness/moringa/phase-4/phase-4-rails-resources-update/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/happiness/moringa/phase-4/phase-4-rails-resources-update/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230322-63961-1g28h5k
